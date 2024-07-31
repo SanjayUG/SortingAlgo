@@ -2,7 +2,7 @@ const pause = async(speed) => {
     return new Promise(resolve => {
         setTimeout(() => {
             resolve();
-        }, 450/speed);
+        }, 1000/speed);
     });
 }
 

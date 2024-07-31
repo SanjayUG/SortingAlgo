@@ -27,8 +27,8 @@ class Visualizer extends React.Component {
     */
     state = {
         list: [],
-        size: 10,
-        speed: 1,
+        size: 16,
+        speed: 2,
         algorithm: 1,
         running: false,
     };

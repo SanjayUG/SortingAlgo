@@ -16,8 +16,8 @@ class Navbar extends React.Component {
             { value: 6, type: 'Heap Sort' },
             { value: 7, type: 'Twist Sort' },
 		],
-		lengths: [10, 20, 40, 70, 80,  100, 200, 400],
-		speeds: [0.75, 1.00, 2.00, 4.00, 100.00, 700.00, 2000.00]
+		lengths: [16, 24, 40, 70, 80,  100, 200, 400],
+		speeds: [2.00, 4.00, 100.00, 700.00, 2000.00]
     };
 
     // prevent the default link behaviour for navbar
